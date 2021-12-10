@@ -1,5 +1,7 @@
 # Teste-Mova-Front-End
 
+<p>Teste front-end realizado, utilizando axios para consumir a api de rest countries, além da utilização de rotas e outras propriedades do Vue.</p>
+
 ## Project setup
 ```
 npm install
